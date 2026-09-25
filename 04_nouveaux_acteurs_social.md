@@ -1,7 +1,7 @@
 # Benchmark CMI : nouveaux acteurs comparables, check des réseaux sociaux
 
 Date du check : 25 septembre 2026.
-Statut : en cours (fichier mis à jour après chaque acteur).
+Statut : check terminé. 25 nouveaux acteurs vérifiés : 5 à ajouter, 14 en réserve, 6 écartés.
 
 ## Méthode et limites (à lire)
 
@@ -52,7 +52,7 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
 
 | Acteur | Pays | Langue(s) | Réseaux actifs | Ressemblance | Verdict |
 |---|---|---|---|---|---|
-| NPCI | Inde | EN (+ hindi) | LinkedIn, X, YouTube, Facebook, Instagram | FORTE | À AJOUTER |
+| NPCI | Inde | EN (+ hindi) | LinkedIn, X, YouTube, Facebook, Instagram | FORTE | À GARDER EN RÉSERVE (en tête) |
 | NETS | Singapour | EN | LinkedIn, Facebook, Instagram | MOYENNE | À GARDER EN RÉSERVE |
 | PayNet | Malaisie | EN (+ malais) | LinkedIn, Instagram | FORTE | À AJOUTER |
 | Australian Payments Plus (AP+) | Australie | EN | LinkedIn, YouTube (eftpos : Facebook, Instagram, X) | MOYENNE | À GARDER EN RÉSERVE |
@@ -74,6 +74,9 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
 | Egyptian Banks Company (EBC) | Égypte | EN + AR | LinkedIn | MOYENNE | À GARDER EN RÉSERVE |
 | Saudi Payments | Arabie saoudite | EN + AR | LinkedIn (+ comptes de marque mada) | MOYENNE | À GARDER EN RÉSERVE |
 | KNET | Koweït | AR surtout | LinkedIn, X, Facebook | FAIBLE | ÉCARTÉ |
+| Payments Canada / Paiements Canada | Canada | EN + FR | LinkedIn, X, Facebook | FORTE | À AJOUTER |
+| Nacha | États-Unis | EN | LinkedIn | MOYENNE | À GARDER EN RÉSERVE |
+| Swift | Monde (Belgique) | EN | LinkedIn | MOYENNE | À GARDER EN RÉSERVE |
 
 ---
 
@@ -99,7 +102,7 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
   - https://www.linkedin.com/posts/upi-chalega_upi-upichalega-kbconsonytv-activity-7493956632050225152-YcRz (14/08/2026) : UPI s'associe à un jeu télé populaire pour diffuser une règle anti-arnaque simple (« ne cliquez pas sur les liens reçus de numéros inconnus »).
   - https://www.linkedin.com/posts/npci_upipaymentsafety-npcialwaysforward-upi-activity-7278280962206027776-Rjg4 (27/12/2024) : post de sensibilisation #UPIPaymentSafety, signé du slogan #NPCIAlwaysForward.
 - **Ressemblance avec la grille** : FORTE. Rôle rendu visible, sécurité très travaillée, régularité et formats variés, écosystème mis en avant. Limite : échelle et marques grand public (UPI, RuPay) bien plus fortes que celles du CMI.
-- **Verdict** : À AJOUTER.
+- **Verdict** : À GARDER EN RÉSERVE, en tête de la réserve. La comm est excellente mais très grand public et d'une autre échelle. À citer pour ses campagnes anti-arnaque.
 
 #### NETS, Network for Electronic Transfers (Singapour)
 
@@ -408,8 +411,72 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
 - **Ressemblance avec la grille** : FAIBLE. Modèle identique au CMI, mais contenus en arabe seul (règle de langue non respectée) et activité peu visible.
 - **Verdict** : ÉCARTÉ.
 
+### Amérique du Nord
+
+#### Payments Canada / Paiements Canada (Canada)
+
+- **Identité** : organisme créé par une loi fédérale, dont les membres sont les banques et institutions financières. Opère les systèmes nationaux de compensation et de règlement (« des centaines de milliards de dollars chaque jour ») et lance le paiement en temps réel (Real-Time Rail) en 2026.
+- **Liens** (à ouvrir) :
+  - Site : https://www.payments.ca/ (version française : https://www.paiements.ca/)
+  - LinkedIn : https://ca.linkedin.com/company/payments-canada (environ 24 000 abonnés)
+  - X : https://x.com/PaymentsCanada
+  - Facebook : https://www.facebook.com/paymentscanada/
+- **Langues** : anglais sur les réseaux (le français n'a pas été repéré dans les posts indexés), site, rapports et communiqués entièrement en français.
+- **Activité** : dernier post trouvé le 4 mars 2026 (lancement du paiement en temps réel). Rythme régulier (estimation).
+- **Contenus** : rapport annuel « Méthodes et tendances de paiement » transformé en posts chiffrés (« 22,5 milliards de transactions, 12 200 milliards de dollars en 2024 »), pédagogie sur le paiement en temps réel (ce qui change pour les entreprises et les particuliers), bénéfices pour l'économie (économies estimées sur dix ans), lutte contre la fraude intégrée dès le départ, podcast, grand événement annuel de l'écosystème.
+- **Ton** : clair, factuel, d'intérêt public (« rendre les paiements plus simples, plus intelligents et plus sûrs pour tous les Canadiens »).
+- **Posts représentatifs** :
+  - https://www.linkedin.com/posts/payments-canada_the-real-time-rail-canadas-fastest-payment-activity-7434971225849921537-l6ca (04/03/2026) : lancement du paiement en temps réel, expliqué pour le grand public et les entreprises.
+  - https://www.linkedin.com/posts/payments-canada_read-the-full-2025-cpmt-report-now-activity-7388605563296899072-btth (27/10/2025) : sortie du rapport annuel sur les modes de paiement, avec les chiffres clés.
+- **Ressemblance avec la grille** : FORTE. Rôle d'infrastructure rendu visible, chiffres de place, sécurité, rassembleur, régularité. Proche de la posture « plateforme de place au service de tous » visée par le CMI.
+- **Verdict** : À AJOUTER.
+
+#### Nacha (États-Unis)
+
+- **Identité** : association à but non lucratif, gouvernée par ses membres institutions financières, qui fixe les règles du réseau ACH (virements et prélèvements de masse aux États-Unis). Rôle de gouvernance de place, pas d'opérateur technique.
+- **Liens** (à ouvrir) : site https://www.nacha.org/ ; LinkedIn https://www.linkedin.com/company/nacha ; autres réseaux non vérifiés.
+- **Langue** : anglais.
+- **Activité** : dernier post trouvé le 30 avril 2026. Rythme régulier (estimation).
+- **Contenus** : chiffres trimestriels du réseau (croissance du Same Day ACH), nouvelles règles anti-fraude expliquées, formation et certifications, grande conférence annuelle.
+- **Post représentatif** : https://www.linkedin.com/posts/nacha_in-1q-2026-same-day-ach-volume-value-saw-activity-7455707207658188801-cNEL (30/04/2026) : chiffres du premier trimestre 2026.
+- **Ressemblance avec la grille** : MOYENNE. Chiffres et sécurité, mais comm très proche de celle de The Clearing House, déjà retenu.
+- **Verdict** : À GARDER EN RÉSERVE (doublon avec The Clearing House).
+
+### Acteur mondial testé en plus
+
+#### Swift (monde, siège en Belgique)
+
+- **Identité** : coopérative détenue par ses banques membres, réseau mondial de messagerie financière (plus de 11 000 institutions dans plus de 200 pays).
+- **Liens** (à ouvrir) : site https://www.swift.com/ ; LinkedIn https://www.linkedin.com/company/swift ; autres réseaux non vérifiés.
+- **Langue** : anglais.
+- **Activité** : posts de 2025 et 2026 repérés (Sibos, hackathon 2026, évolution des standards). Rythme élevé (estimation).
+- **Contenus** : grand événement annuel (Sibos), vision de l'avenir des paiements internationaux, changements de standards expliqués avec des dates claires, innovation (hackathon), mot « coopérative » très présent.
+- **Post représentatif** : https://www.linkedin.com/posts/swift_swift-sibos-activity-7369667831329628164-21C3 (05/09/2025) : présentation de la présence de Swift à Sibos.
+- **Ressemblance avec la grille** : MOYENNE. Posture de rassembleur neutre « détenu par ses membres » très proche du CMI, mais échelle mondiale et sujets très techniques.
+- **Verdict** : À GARDER EN RÉSERVE (pour le vocabulaire de la coopérative neutre).
+
 ---
 
 ## 4. Recommandation
 
-(à compléter en fin de check)
+### Les 5 acteurs à ajouter au benchmark
+
+1. **Bancontact Payconiq Company (Belgique)** : le réseau domestique commun des banques belges, qui parle **en français**, rend son rôle concret avec un chiffre annuel simple (« 2,4 milliards de paiements ») et diffuse des conseils anti-arnaque. C'est le modèle le plus direct pour des posts CMI en français.
+2. **BENEFIT (Bahreïn)** : un switch national créé par les banques, comme le CMI, qui a réussi à parler au grand public sur Instagram (environ 189 000 abonnés) **en anglais et en arabe**. Il montre au CMI comment présenter des nouveautés et la sécurité de façon pratique et bilingue.
+3. **Al Etihad Payments (Émirats arabes unis)** : la jeune « entité nationale des paiements », au service de plus de 150 institutions, qui construit sa comm en ce moment avec des guides pas à pas et la voix de son CEO. Il montre au CMI comment installer une **posture de plateforme neutre et nationale**, dans le même pays que Network International.
+4. **PayNet (Malaisie)** : une infrastructure partagée, détenue par la banque centrale et les banques, qui mêle **chiffres de place**, lutte contre la fraude et inclusion (campus, zones rurales). Il donne au CMI un modèle pour sa « lecture du marché monétique » et son rôle d'intérêt général.
+5. **Payments Canada / Paiements Canada (Canada)** : l'infrastructure de place qui transforme son **rapport annuel sur les modes de paiement** en posts chiffrés et explique le paiement en temps réel au grand public, avec un site entièrement bilingue français et anglais. Il inspire le CMI pour un rendez-vous annuel de données sur les paiements au Maroc.
+
+### En réserve (à citer ponctuellement)
+
+- **NPCI (Inde)**, en tête de la réserve : les meilleures campagnes anti-arnaque trouvées, mais une comm grand public d'une autre échelle.
+- **Australian Payments Plus** (format d'analyse « The AP+ POV »), **Payments NZ** (rapport annuel « The Point »), **TWINT** (bilan annuel en chiffres), **LINK** et **Swift** (vocabulaire de l'intérêt public et de la coopérative), **EBA CLEARING**, **EPI / Wero**, **NETS**, **LankaPay**, **1LINK**, **EBC**, **Saudi Payments**, **Nacha**.
+
+### Écartés
+
+HKICL, JETCO, BancNet, SIX, STET, KNET : comm sociale absente, trop discrète, centrée sur un autre métier ou en arabe seul.
+
+### Avant de présenter
+
+- Ouvrir dans le navigateur les liens des 5 acteurs recommandés (site, puis chaque réseau depuis le site) et noter la date du dernier post réel.
+- Vérifier deux points précis : la langue des posts Facebook de Bancontact et BENEFIT (FR/NL et AR/EN), et l'éventuelle présence de posts en français sur les réseaux de Payments Canada.
