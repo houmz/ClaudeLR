@@ -69,6 +69,11 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
 | EBA CLEARING | Europe (Paris) | EN | LinkedIn | MOYENNE | À GARDER EN RÉSERVE |
 | EPI / Wero | Europe (Bruxelles) | EN, FR, DE, NL | LinkedIn, Instagram, TikTok | MOYENNE | À GARDER EN RÉSERVE |
 | LINK | Royaume-Uni | EN | LinkedIn, X | MOYENNE | À GARDER EN RÉSERVE |
+| BENEFIT | Bahreïn | EN + AR | Instagram, LinkedIn, X, Facebook | FORTE | À AJOUTER |
+| Al Etihad Payments (AEP) | Émirats arabes unis | EN + AR | LinkedIn, Instagram, Facebook | FORTE | À AJOUTER |
+| Egyptian Banks Company (EBC) | Égypte | EN + AR | LinkedIn | MOYENNE | À GARDER EN RÉSERVE |
+| Saudi Payments | Arabie saoudite | EN + AR | LinkedIn (+ comptes de marque mada) | MOYENNE | À GARDER EN RÉSERVE |
+| KNET | Koweït | AR surtout | LinkedIn, X, Facebook | FAIBLE | ÉCARTÉ |
 
 ---
 
@@ -327,6 +332,81 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
 - **Post représentatif** : https://www.linkedin.com/posts/link-atm-scheme_cash-machine-stolen-in-thorpe-marriott-ram-raid-activity-7419805485387845633-WWms (21/01/2026) : relais d'un fait divers sur un distributeur volé, occasion de parler de sécurité du réseau.
 - **Ressemblance avec la grille** : MOYENNE. La posture « intérêt public » et « au service de tous » est très proche du CMI neutre, mais l'audience est petite et le sujet (espèces) est différent.
 - **Verdict** : À GARDER EN RÉSERVE (pour le vocabulaire de l'intérêt public).
+
+### Moyen-Orient
+
+#### BENEFIT, The BENEFIT Company (Bahreïn)
+
+- **Identité** : switch national créé en 1997 par les banques de Bahreïn, sous licence de la banque centrale. Traite les opérations distributeurs et terminaux de paiement du pays, le virement instantané (Fawri+) et l'appli BenefitPay (plus de 1,3 million d'utilisateurs). Se présente comme « le réseau électronique national de Bahreïn pour les transactions financières ». Modèle très proche du CMI.
+- **Liens** (à ouvrir) :
+  - Site : https://benefit.bh/
+  - Instagram : https://www.instagram.com/benefit.bh/ (environ 189 000 abonnés)
+  - LinkedIn : https://bh.linkedin.com/company/the-benefit-company-bsc
+  - X : https://x.com/benefitbh
+  - Facebook : https://www.facebook.com/benefit.bh/
+- **Langues** : anglais et arabe (nom de marque et bio bilingues).
+- **Activité** : posts Instagram sur BenefitPay repérés en mars et mai 2026 (compte émetteur à confirmer). Rythme élevé sur Instagram (estimation).
+- **Contenus** : nouveautés de service expliquées simplement (virements programmés, relèvement des plafonds Fawri+), sécurité (nouvelle vérification d'identité dans BenefitPay), chiffres de place (plus de 27 milliards de dinars passés par BenefitPay), dirigeant en porte-parole (interview du CEO dans le Wall Street Journal), paiement des factures du quotidien.
+- **Ton** : proche, pratique, rassurant, fier du rôle national.
+- **Posts représentatifs** :
+  - https://www.instagram.com/p/DYNLdMfoAnH/ (11/05/2026) : lancement des virements programmés sur BenefitPay (auteur du post à confirmer).
+  - https://www.instagram.com/p/DVzTGALDMKf/ (12/03/2026) : BenefitPay et le système de virement électronique expliqués (auteur du post à confirmer).
+- **Ressemblance avec la grille** : FORTE. Rôle national clair, sécurité, chiffres, forte audience sur Instagram, bilingue anglais et arabe. Le meilleur exemple trouvé d'un switch national de banques qui parle au grand public.
+- **Verdict** : À AJOUTER.
+
+#### Al Etihad Payments, AEP (Émirats arabes unis), acteur ajouté hors liste
+
+- **Identité** : filiale de la banque centrale des Émirats, désignée « entité nationale des paiements ». Opère Aani (paiement instantané) et Jaywan (schéma de carte domestique) pour plus de 150 institutions financières et prestataires de paiement agréés. Même pays que Network International, mais rôle d'infrastructure neutre.
+- **Liens** (à ouvrir) :
+  - Site : https://aep.ae/
+  - LinkedIn : https://www.linkedin.com/company/etihad-payments (environ 18 000 abonnés)
+  - Instagram : https://www.instagram.com/aletihadpayments/ (environ 1 100 abonnés)
+  - Facebook : https://www.facebook.com/AlEtihadPayments/
+- **Langues** : anglais, avec de l'arabe.
+- **Activité** : dernier post trouvé le 30 juin 2026. Rythme régulier (plusieurs posts par mois, estimation).
+- **Contenus** : guides pas à pas (comment activer Aani avec un simple numéro de mobile), prises de parole du CEO sur la transformation de l'écosystème, grands événements de lancement (Aani, Jaywan, open finance), partenariats (Jaywan avec l'Inde), message « nous ne construisons pas seulement des paiements... ».
+- **Ton** : institutionnel, moderne, pédagogique, fierté nationale.
+- **Posts représentatifs** :
+  - https://www.linkedin.com/posts/etihad-payments_aani-payment-instantpayments-activity-7477665989401370624-esfD (30/06/2026) : comment Aani change l'écosystème de paiement des Émirats.
+  - https://www.linkedin.com/posts/etihad-payments_aletihadpayments-aani-jaywan-activity-7305843268624277504-AAd8 (13/03/2025) : le CEO partage sa vision de l'infrastructure nationale.
+- **Ressemblance avec la grille** : FORTE. Rôle de plateforme nationale au service de tous clairement dit, pédagogie, rassembleur, régularité, bilingue. Jeune acteur (créé en 2023) qui construit sa comm en ce moment, comme le CMI.
+- **Verdict** : À AJOUTER.
+
+#### Egyptian Banks Company, EBC (Égypte)
+
+- **Identité** : société créée en 1995, rattachée à la banque centrale d'Égypte et détenue avec les banques. Opère l'infrastructure nationale de paiement : réseau reliant 123 banques, schéma national Meeza, virement instantané InstaPay, Meeza Digital (32 millions de portefeuilles mobiles).
+- **Liens** (à ouvrir) : site https://www.ebc.com.eg/ (à vérifier) ; LinkedIn https://www.linkedin.com/company/egyptian-banks-company ; Facebook et Instagram non trouvés dans l'index.
+- **Langues** : anglais et arabe.
+- **Activité** : dernier post de la page trouvé le 18 décembre 2024 (le vrai rythme 2026 est à vérifier). Des dirigeants relaient des chiffres récents (5 schémas nationaux, plus de 30 000 milliards de livres égyptiennes traitées en 2025).
+- **Contenus** : jalons (Apple Pay sur Meeza), chiffres de place, salons (Cairo ICT), éducation au paiement électronique sûr (ateliers en régions pour plus de 700 personnes).
+- **Ton** : institutionnel, orienté inclusion.
+- **Post représentatif** : https://www.linkedin.com/posts/egyptian-banks-company_meeza-ebc-egyptianbanks-activity-7275159868917899264-9rsS (18/12/2024) : post sur Meeza, le schéma national.
+- **Ressemblance avec la grille** : MOYENNE. Sur le fond, 4 critères sur 5 sont présents (rôle, chiffres, sécurité, rassembleur), mais l'activité récente de la page n'est pas confirmée.
+- **Verdict** : À GARDER EN RÉSERVE (à repasser en « à ajouter » si la page est active en 2026).
+
+#### Saudi Payments (Arabie saoudite)
+
+- **Identité** : filiale de la banque centrale saoudite, opérateur de l'infrastructure nationale de paiement. Réunit mada (réseau carte national), SARIE (virement instantané), SADAD (factures) et Esal.
+- **Liens** (à ouvrir) :
+  - Site : https://www.saudipayments.com/ (à vérifier)
+  - LinkedIn : https://www.linkedin.com/company/saudi-payments , plus des pages vitrines https://www.linkedin.com/showcase/mada_saudi/ et https://www.linkedin.com/showcase/sarie_saudi/
+  - Marque mada : Instagram https://www.instagram.com/mada_payments/ (environ 40 000 abonnés), compte X @mada (à vérifier)
+- **Langues** : anglais et arabe sur LinkedIn, arabe dominant sur les comptes de marque.
+- **Activité** : peu de posts datés trouvés pour la page mère. Les comptes de marque (mada) semblent plus actifs.
+- **Contenus** : jalons techniques (première transaction d'un réseau international sur mada), présentation des marques, lien avec la Vision 2030 et la société sans cash.
+- **Ton** : institutionnel, national.
+- **Ressemblance avec la grille** : MOYENNE. Rôle proche du CMI, mais comm éclatée par marque et surtout en arabe côté grand public.
+- **Verdict** : À GARDER EN RÉSERVE.
+
+#### KNET (Koweït)
+
+- **Identité** : société créée en 1992 par les banques koweïtiennes, switch national au service de toutes les banques du pays, relié au réseau du Golfe.
+- **Liens** (à ouvrir) : site https://www.knet.com.kw/ ; LinkedIn https://kw.linkedin.com/company/the-shared-electronic-banking-services-co.-knet ; X @Knetkw ; Facebook https://www.facebook.com/knetkw/.
+- **Langues** : posts trouvés en arabe seulement.
+- **Activité** : dernier post trouvé le 26 décembre 2024.
+- **Post représentatif** : https://www.linkedin.com/posts/the-shared-electronic-banking-services-co.-knet_%D8%B9%D9%82%D8%AF%D8%AA-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%A2%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-activity-7278062451487633409-vBRu (26/12/2024) : post institutionnel en arabe.
+- **Ressemblance avec la grille** : FAIBLE. Modèle identique au CMI, mais contenus en arabe seul (règle de langue non respectée) et activité peu visible.
+- **Verdict** : ÉCARTÉ.
 
 ---
 
