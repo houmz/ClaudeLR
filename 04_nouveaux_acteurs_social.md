@@ -60,6 +60,8 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
 | HKICL | Hong Kong | EN (+ chinois) | LinkedIn (peu actif) | FAIBLE | ÉCARTÉ |
 | JETCO | Hong Kong | EN (+ chinois) | LinkedIn (peu actif) | FAIBLE | ÉCARTÉ |
 | BancNet | Philippines | EN | LinkedIn (petit compte) | FAIBLE | ÉCARTÉ |
+| LankaPay | Sri Lanka | EN (+ cinghalais, tamoul) | LinkedIn, Facebook, YouTube, Instagram | MOYENNE | À GARDER EN RÉSERVE |
+| 1LINK | Pakistan | EN (+ ourdou) | LinkedIn, Facebook | MOYENNE | À GARDER EN RÉSERVE |
 
 ---
 
@@ -180,6 +182,41 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
 - **Activité et contenus** : aucun post de la page trouvé. On parle surtout de BancNet via des tiers (nominations, communiqués).
 - **Ressemblance avec la grille** : FAIBLE.
 - **Verdict** : ÉCARTÉ.
+
+#### LankaPay (Sri Lanka), acteur ajouté hors liste
+
+- **Identité** : ex-LankaClear, détenu par la banque centrale et les banques commerciales du pays. Se présente comme « le réseau national de paiement du Sri Lanka ». Opère le réseau commun de distributeurs, le virement instantané, le schéma de carte national, le QR national (LANKAQR) et JustPay.
+- **Liens** (à ouvrir) :
+  - Site : https://www.lankapay.net/en
+  - LinkedIn : https://lk.linkedin.com/company/lankaclear---pvt-ltd
+  - Facebook : https://www.facebook.com/LankaPay/ (environ 78 000 abonnés)
+  - YouTube : https://www.youtube.com/@lankapay1279
+  - Instagram : https://www.instagram.com/lankapay/ (moins de 800 abonnés)
+- **Langues** : anglais sur LinkedIn, probablement cinghalais et tamoul en plus sur Facebook (à vérifier).
+- **Activité** : posts de 2026 repérés (campagne nationale QR lancée le 6 avril 2026, salon « Shancharaka Udawa 2026 »). Rythme non mesurable.
+- **Contenus** : campagnes nationales pour le paiement QR, tourisme (faciliter le paiement des voyageurs), liaisons internationales (Inde, Alipay+, WeChat Pay, Népal), mise en avant des banques et applis membres (post listant les applis connectées à JustPay), salons et sponsoring.
+- **Ton** : institutionnel, « au service de la nation », promotionnel.
+- **Post représentatif** :
+  - https://lk.linkedin.com/posts/lankaclear---pvt-ltd_cim-centrix-directpay-activity-7028920819791646720-aGee (08/02/2023) : post qui cite une à une les applis membres du réseau JustPay, une façon simple de montrer l'écosystème.
+- **Ressemblance avec la grille** : MOYENNE. Modèle très proche du CMI (banque centrale + banques, réseau national), bon sur le rassembleur, mais peu de pédagogie et de chiffres repérés.
+- **Verdict** : À GARDER EN RÉSERVE.
+
+#### 1LINK (Pakistan), acteur ajouté hors liste
+
+- **Identité** : switch national détenu par un consortium de 11 banques, connecte 37 banques. Opère PayPak (schéma de carte domestique lancé sous l'égide de la banque centrale) et des services liés au virement instantané national Raast.
+- **Liens** (à ouvrir) :
+  - Site : https://1link.net.pk/
+  - LinkedIn : https://pk.linkedin.com/company/1linkpvtltd (environ 45 000 abonnés)
+  - Facebook : plusieurs pages trouvées (https://www.facebook.com/1LinkPvtLtd/ , https://www.facebook.com/1linkpak/), la page officielle est à confirmer depuis le site. La marque PayPak a sa propre page (https://www.facebook.com/PayPak.Official/).
+- **Langues** : anglais sur LinkedIn, ourdou probable sur Facebook.
+- **Activité** : dernier post trouvé le 27 juillet 2026. Rythme régulier (estimation).
+- **Contenus** : dirigeants en porte-parole (CEO en podcast et interviews sur la révolution des paiements au Pakistan), sessions de travail avec les banques partenaires (règles de fonctionnement des nouveaux services), salons (Money20/20 Asia), campagnes PayPak (#khas, carte PayPak Pink pour les femmes), vie de l'entreprise (nouveaux locaux).
+- **Ton** : corporate, fier du rôle national, orienté événements.
+- **Posts représentatifs** :
+  - https://www.linkedin.com/posts/1linkpvtltd_1link-plss2026-pakistanlogisticsandshippingsummit2026-activity-7487493756405846016-gzal (27/07/2026) : un dirigeant représente 1LINK et anime un panel sur la transformation numérique.
+  - https://www.linkedin.com/posts/1linkpvtltd_1link-newpremises-milestone-activity-7391926843282681856-ssuQ (05/11/2025) : nouveaux locaux présentés comme une étape de croissance.
+- **Ressemblance avec la grille** : MOYENNE. Structure très proche du CMI (switch national détenu par les banques, au service de tous), bon sur le rassembleur et la régularité, mais peu de pédagogie grand public et de chiffres dans ce qui est indexé.
+- **Verdict** : À GARDER EN RÉSERVE.
 
 ---
 
