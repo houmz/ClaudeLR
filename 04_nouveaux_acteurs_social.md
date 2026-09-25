@@ -56,6 +56,10 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
 | NETS | Singapour | EN | LinkedIn, Facebook, Instagram | MOYENNE | À GARDER EN RÉSERVE |
 | PayNet | Malaisie | EN (+ malais) | LinkedIn, Instagram | FORTE | À AJOUTER |
 | Australian Payments Plus (AP+) | Australie | EN | LinkedIn, YouTube (eftpos : Facebook, Instagram, X) | MOYENNE | À GARDER EN RÉSERVE |
+| Payments NZ | Nouvelle-Zélande | EN | LinkedIn | MOYENNE | À GARDER EN RÉSERVE |
+| HKICL | Hong Kong | EN (+ chinois) | LinkedIn (peu actif) | FAIBLE | ÉCARTÉ |
+| JETCO | Hong Kong | EN (+ chinois) | LinkedIn (peu actif) | FAIBLE | ÉCARTÉ |
+| BancNet | Philippines | EN | LinkedIn (petit compte) | FAIBLE | ÉCARTÉ |
 
 ---
 
@@ -136,6 +140,46 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
   - https://www.linkedin.com/posts/australian-payments-plus_beyondtomorrow2025-eftpos-payments-activity-7313414745041051648-ZWcc (03/04/2025) : retour sur le sommet annuel de l'écosystème.
 - **Ressemblance avec la grille** : MOYENNE. Très bon sur le rassembleur et la lecture du marché (format « POV »), mais peu de chiffres de place et de pédagogie grand public trouvés. Les comptes grand public sont portés par la marque eftpos, peu suivis.
 - **Verdict** : À GARDER EN RÉSERVE (le format « The AP+ POV » est une bonne piste pour un CMI qui veut commenter le marché).
+
+#### Payments NZ (Nouvelle-Zélande)
+
+- **Identité** : organisme détenu par les banques néo-zélandaises, qui gère les règles des grands systèmes de paiement du pays (virements, cartes, compensation) et pilote l'open banking via son « API Centre ». Rôle de gouvernance de place plus que d'opérateur technique.
+- **Liens** (à ouvrir) :
+  - Site : https://www.paymentsnz.co.nz/
+  - LinkedIn : https://nz.linkedin.com/company/payments-nz-ltd
+  - Autres réseaux : non trouvés dans l'index.
+- **Langue** : anglais (avec des mots maoris, « Aotearoa »).
+- **Activité** : dernier post trouvé en novembre 2024. Rythme non mesurable, probablement modéré.
+- **Contenus** : pédagogie concrète sur les changements du système (« les salaires versés un jour férié arrivent le jour même », paiements possibles 365 jours par an), chiffres de l'open banking (« plus de 100 000 Néo-Zélandais ont déjà payé par open banking »), rapport annuel « The Point » sur l'état des paiements du pays, événement d'écosystème « The Hub », consultations publiques sur la modernisation.
+- **Ton** : pédagogique, proche, factuel.
+- **Post représentatif** :
+  - https://www.linkedin.com/posts/payments-nz-ltd_the-point-2024-spotlight-on-banking-and-activity-7260107989582249984-B9GQ (07/11/2024) : présentation du rapport « The Point 2024 », lecture annuelle du marché des paiements.
+- **Ressemblance avec la grille** : MOYENNE. Très bon sur le rôle rendu visible et la lecture du marché, mais activité récente non confirmée et un seul réseau.
+- **Verdict** : À GARDER EN RÉSERVE (le rapport « The Point » est un bon modèle de « lecture du marché »).
+
+#### HKICL, Hong Kong Interbank Clearing (Hong Kong)
+
+- **Identité** : société détenue à parts égales par l'autorité monétaire de Hong Kong et l'association des banques. Opère la compensation interbancaire et le virement instantané FPS.
+- **Liens** (à ouvrir) : site https://www.hkicl.com.hk/eng/ ; LinkedIn https://hk.linkedin.com/company/hong-kong-interbank-clearing-limited ; aucun autre compte officiel trouvé.
+- **Activité et contenus** : aucun post récent trouvé. La communication sur FPS passe surtout par l'autorité monétaire (HKMA), pas par HKICL.
+- **Ressemblance avec la grille** : FAIBLE. Rôle très proche du CMI, mais quasi pas de communication sociale.
+- **Verdict** : ÉCARTÉ.
+
+#### JETCO, Joint Electronic Teller Services (Hong Kong)
+
+- **Identité** : consortium créé en 1982 par cinq banques, plus de 30 banques membres. Réseau interbancaire de 3 000 distributeurs à Hong Kong et Macao, services interbancaires (e-chèque, retrait sans carte, passerelle e-commerce).
+- **Liens** (à ouvrir) : site https://www.jetco.com.hk/ ; LinkedIn https://hk.linkedin.com/company/jetcohk (une deuxième page existe au nom complet) ; aucun autre compte officiel trouvé.
+- **Activité et contenus** : aucun post de la page trouvé dans l'index, seulement des communiqués de partenaires.
+- **Ressemblance avec la grille** : FAIBLE. Modèle proche du CMI (consortium de banques), mais pas de communication sociale visible.
+- **Verdict** : ÉCARTÉ.
+
+#### BancNet (Philippines)
+
+- **Identité** : réseau interbancaire détenu par des banques philippines (distributeurs, paiement par carte, virements).
+- **Liens** (à ouvrir) : site https://www.bancnetonline.com/ ; LinkedIn https://www.linkedin.com/company/bancnet-inc. (environ 1 500 abonnés). Une page Facebook est mentionnée mais n'a pas été trouvée dans l'index.
+- **Activité et contenus** : aucun post de la page trouvé. On parle surtout de BancNet via des tiers (nominations, communiqués).
+- **Ressemblance avec la grille** : FAIBLE.
+- **Verdict** : ÉCARTÉ.
 
 ---
 
