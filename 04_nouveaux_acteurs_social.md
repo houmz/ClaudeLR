@@ -62,6 +62,8 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
 | BancNet | Philippines | EN | LinkedIn (petit compte) | FAIBLE | ÉCARTÉ |
 | LankaPay | Sri Lanka | EN (+ cinghalais, tamoul) | LinkedIn, Facebook, YouTube, Instagram | MOYENNE | À GARDER EN RÉSERVE |
 | 1LINK | Pakistan | EN (+ ourdou) | LinkedIn, Facebook | MOYENNE | À GARDER EN RÉSERVE |
+| Bancontact Payconiq Company | Belgique | FR, NL, EN | LinkedIn, Facebook, Instagram | FORTE | À AJOUTER |
+| TWINT | Suisse | EN, FR, DE, IT | LinkedIn, Instagram, Facebook, X | MOYENNE | À GARDER EN RÉSERVE |
 
 ---
 
@@ -217,6 +219,45 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
   - https://www.linkedin.com/posts/1linkpvtltd_1link-newpremises-milestone-activity-7391926843282681856-ssuQ (05/11/2025) : nouveaux locaux présentés comme une étape de croissance.
 - **Ressemblance avec la grille** : MOYENNE. Structure très proche du CMI (switch national détenu par les banques, au service de tous), bon sur le rassembleur et la régularité, mais peu de pédagogie grand public et de chiffres dans ce qui est indexé.
 - **Verdict** : À GARDER EN RÉSERVE.
+
+### Europe
+
+#### Bancontact Payconiq Company (Belgique)
+
+- **Identité** : société détenue par les grandes banques belges. Opère Bancontact, le schéma national de paiement par carte de débit, et l'appli de paiement mobile (Payconiq by Bancontact, renommée Bancontact Pay en 2026). Proche du rôle historique du CMI : le réseau domestique commun des banques.
+- **Liens** (à ouvrir) :
+  - Site : https://www.bancontact.com/
+  - LinkedIn : https://be.linkedin.com/company/bancontactpayconiqcompany (plus une page vitrine pour l'appli)
+  - Facebook : https://www.facebook.com/BancontactPay/ (page principale actuelle ; d'autres pages existent, à trier depuis le site)
+  - Instagram : activité repérée (post https://www.instagram.com/p/DFsZyi5qKF4/), identifiant du compte à confirmer.
+- **Langues** : français et néerlandais sur Facebook et Instagram (vidéos doublées dans les deux langues), anglais sur LinkedIn.
+- **Activité** : posts de 2025 et 2026 repérés (vidéos du changement de nom en Bancontact Pay en 2026). Dernier post LinkedIn daté trouvé : 28 janvier 2025. Rythme régulier (estimation).
+- **Contenus** : chiffres annuels simples (« les Belges ont sorti leur carte ou leur smartphone 2,4 milliards de fois en 2023 pour payer avec Bancontact »), alertes et conseils anti-arnaque, nouveautés de l'appli expliquées pas à pas, intégration dans les applis des banques membres, cas d'usage concrets (recharge de voiture électrique), recrutement.
+- **Ton** : simple, proche, rassurant, un peu ludique côté grand public.
+- **Posts représentatifs** :
+  - https://www.linkedin.com/posts/bancontactpayconiqcompany_the-number-of-electronic-payments-made-exceeds-activity-7002896218972381184-Ows4 (28/11/2022) : le cap des 2 milliards de paiements électroniques dans l'année, présenté comme une étape pour tout le pays.
+  - https://www.linkedin.com/posts/bancontactpayconiqcompany_detect-cybercrime-in-mobile-payment-experiences-activity-7107016712817922048-Dynz (11/09/2023) : comment repérer la cybercriminalité dans le paiement mobile.
+- **Ressemblance avec la grille** : FORTE. Chiffres de place, sécurité, rôle national visible, banques membres mises en avant, et contenus en français. Limite : une partie de la comm est très « produit » (l'appli).
+- **Verdict** : À AJOUTER.
+
+#### TWINT (Suisse)
+
+- **Identité** : appli nationale de paiement mobile, détenue par les grandes banques suisses (UBS, PostFinance, Raiffeisen, Banque cantonale de Zurich, Banque cantonale vaudoise, etc.) avec SIX et Worldline. Plus de 5 millions d'utilisateurs actifs.
+- **Liens** (à ouvrir) :
+  - Site : https://www.twint.ch/
+  - LinkedIn : https://ch.linkedin.com/company/twint (environ 41 600 abonnés)
+  - Instagram : https://www.instagram.com/twint_ag/ (environ 41 000 abonnés)
+  - Facebook : https://www.facebook.com/twintapp/ (environ 16 700 abonnés)
+  - X : https://x.com/twintapp
+- **Langues** : allemand surtout, avec français, italien et anglais (pays multilingue).
+- **Activité** : dernier post trouvé le 17 février 2026. Rythme régulier (estimation).
+- **Contenus** : bilan annuel en chiffres (« la Suisse a « twinté » comme jamais : 901 millions de transactions en 2025 »), prix de réputation et de marque, nouveaux usages (transports, parking, marchés à la ferme), vie d'équipe.
+- **Ton** : moderne, léger, fier d'être « suisse ». Le nom de la marque devient un verbe (« twinter »).
+- **Posts représentatifs** :
+  - https://www.linkedin.com/posts/twint_switzerland-twinted-like-never-before-in-activity-7429419884914225152-3cgj (17/02/2026) : bilan de l'année 2025 en chiffres clés.
+  - https://www.linkedin.com/posts/twint_twint-twinten-twintapp-activity-6967405151435296768-0-Xi (22/08/2022) : post de marque autour du verbe « twinten ».
+- **Ressemblance avec la grille** : MOYENNE. Excellent sur les chiffres et la régularité, mais c'est une marque grand public d'appli, loin d'une plateforme technique neutre. Beaucoup de contenus en allemand.
+- **Verdict** : À GARDER EN RÉSERVE (le format « bilan annuel en chiffres » est à retenir).
 
 ---
 
