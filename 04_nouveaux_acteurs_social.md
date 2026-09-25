@@ -64,6 +64,11 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
 | 1LINK | Pakistan | EN (+ ourdou) | LinkedIn, Facebook | MOYENNE | À GARDER EN RÉSERVE |
 | Bancontact Payconiq Company | Belgique | FR, NL, EN | LinkedIn, Facebook, Instagram | FORTE | À AJOUTER |
 | TWINT | Suisse | EN, FR, DE, IT | LinkedIn, Instagram, Facebook, X | MOYENNE | À GARDER EN RÉSERVE |
+| SIX | Suisse | EN, DE | LinkedIn | FAIBLE | ÉCARTÉ |
+| STET | France | FR, EN | LinkedIn | FAIBLE | ÉCARTÉ |
+| EBA CLEARING | Europe (Paris) | EN | LinkedIn | MOYENNE | À GARDER EN RÉSERVE |
+| EPI / Wero | Europe (Bruxelles) | EN, FR, DE, NL | LinkedIn, Instagram, TikTok | MOYENNE | À GARDER EN RÉSERVE |
+| LINK | Royaume-Uni | EN | LinkedIn, X | MOYENNE | À GARDER EN RÉSERVE |
 
 ---
 
@@ -258,6 +263,70 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
   - https://www.linkedin.com/posts/twint_twint-twinten-twintapp-activity-6967405151435296768-0-Xi (22/08/2022) : post de marque autour du verbe « twinten ».
 - **Ressemblance avec la grille** : MOYENNE. Excellent sur les chiffres et la régularité, mais c'est une marque grand public d'appli, loin d'une plateforme technique neutre. Beaucoup de contenus en allemand.
 - **Verdict** : À GARDER EN RÉSERVE (le format « bilan annuel en chiffres » est à retenir).
+
+#### SIX (Suisse)
+
+- **Identité** : groupe détenu par environ 120 banques suisses et étrangères. Opère le système de paiement interbancaire SIC pour le compte de la banque nationale suisse, mais aussi la Bourse suisse, la Bourse espagnole, le post-marché et l'information financière.
+- **Liens** (à ouvrir) : site https://www.six-group.com/ ; LinkedIn https://www.linkedin.com/company/sixgroup (plus des pages vitrines par métier). Autres réseaux non vérifiés.
+- **Langues** : anglais et allemand.
+- **Activité et contenus** : résultats semestriels (premier semestre 2026), programme de transformation, consultations de marché sur le paiement instantané (SIC Instant Payments, commentaires attendus pour février 2026). Les paiements ne sont qu'un sujet parmi d'autres, loin derrière la Bourse et les marchés.
+- **Ressemblance avec la grille** : FAIBLE. Le rôle paiement est proche du CMI, mais la comm sociale est dominée par les marchés financiers.
+- **Verdict** : ÉCARTÉ.
+
+#### STET (France)
+
+- **Identité** : opérateur interbancaire détenu par six grandes banques françaises. Compensation des paiements de détail (système CORE), paiement instantané, autorisation carte, prévention de la fraude. Rôle très proche d'une plateforme technique neutre de place, et francophone.
+- **Liens** (à ouvrir) : site https://www.stet.eu/ ; LinkedIn https://www.linkedin.com/company/stet ; aucun autre compte officiel trouvé.
+- **Langues** : français et anglais.
+- **Activité** : dernier post trouvé le 1er septembre 2025. Rythme faible (estimation).
+- **Contenus** : présentation du comité exécutif (#WeAreSTET), arrivée de nouveaux participants (Adyen comme participant direct), recrutement.
+- **Post représentatif** : https://www.linkedin.com/posts/stet_wearestet-executivecommittee-payments-activity-7368190888117731329-SnAT (01/09/2025) : présentation de l'équipe de direction.
+- **Ressemblance avec la grille** : FAIBLE. Modèle le plus proche du futur CMI sur le fond, mais communication sociale très discrète et surtout RH.
+- **Verdict** : ÉCARTÉ (à citer seulement comme exemple d'infrastructure « silencieuse », ce que le CMI veut éviter).
+
+#### EBA CLEARING (Europe, siège à Paris)
+
+- **Identité** : société détenue par une cinquantaine de grandes banques européennes. Opère EURO1 (gros montants), STEP2 (virements et prélèvements SEPA) et RT1 (paiement instantané paneuropéen).
+- **Liens** (à ouvrir) : site https://www.ebaclearing.eu/ ; LinkedIn https://www.linkedin.com/company/eba-clearing ; aucun autre compte officiel trouvé.
+- **Langue** : anglais.
+- **Activité** : dernier post trouvé le 9 octobre 2025. Rythme modéré (estimation).
+- **Contenus** : jalons techniques réussis, records de volumes, lutte contre la fraude sur le paiement instantané (outil commun de détection des anomalies), présentation des membres du conseil, anniversaires de services (5 ans de RT1).
+- **Ton** : B2B, technique, sobre, « européen ».
+- **Posts représentatifs** :
+  - https://www.linkedin.com/posts/eba-clearing_fraudfighting-instantpayments-activity-7117443521275408384-uP8e (10/10/2023) : la lutte contre la fraude sur le paiement instantané comme effort collectif des banques.
+  - https://www.linkedin.com/posts/eba-clearing_eba-clearing-services-successfully-complete-activity-7382037035252981760-ybbl (09/10/2025) : réussite d'une grande migration technique de ses services.
+- **Ressemblance avec la grille** : MOYENNE. Bon sur les chiffres, la sécurité et la posture de plateforme commune, mais comm très technique, pour initiés.
+- **Verdict** : À GARDER EN RÉSERVE (bon exemple de comm B2B d'une plateforme neutre, vue par ses clients banques).
+
+#### EPI Company / Wero (Europe, siège à Bruxelles)
+
+- **Identité** : société détenue par une quinzaine de grandes banques et acteurs du paiement européens. Lance Wero, portefeuille de paiement instantané européen (Belgique, France, Allemagne, puis Luxembourg et Pays-Bas).
+- **Liens** (à ouvrir) :
+  - Site : https://wero-wallet.eu/ (et https://www.epicompany.eu/ pour la société)
+  - LinkedIn : https://be.linkedin.com/company/epicompany
+  - Instagram : https://www.instagram.com/wero_eu/ (environ 9 800 abonnés)
+  - TikTok : https://www.tiktok.com/@wero_eu (environ 40 800 abonnés)
+- **Langues** : anglais sur LinkedIn, contenus locaux en français, allemand et néerlandais selon les pays.
+- **Activité** : dernier post trouvé le 17 février 2026. Rythme soutenu (estimation).
+- **Contenus** : jalons d'utilisateurs (plus de 55 millions en Europe), arrivée de nouvelles banques et de nouveaux pays, souveraineté européenne (#europeansovereignty), nouveautés à venir (paiement sans contact en magasin), vidéos courtes grand public sur TikTok.
+- **Ton** : engagé (« made in Europe »), moderne, jeune sur TikTok.
+- **Posts représentatifs** :
+  - https://www.linkedin.com/posts/epicompany_wero-europeanpayments-europeansovereignty-activity-7424014217932058624-koTy (02/02/2026) : post sur la souveraineté européenne des paiements.
+  - https://www.linkedin.com/posts/epicompany_wero-europeanpayments-epi-activity-7429426992799813633-y7g0 (17/02/2026) : point d'étape sur le déploiement de Wero.
+- **Ressemblance avec la grille** : MOYENNE. Chiffres, rassembleur (banques) et régularité, mais c'est une marque grand public en lancement. L'angle souveraineté est déjà couvert par CB.
+- **Verdict** : À GARDER EN RÉSERVE (utile surtout pour les formats vidéo courts).
+
+#### LINK (Royaume-Uni)
+
+- **Identité** : réseau national des distributeurs de billets britanniques, dont les membres sont les banques et émetteurs de cartes. Se dit opérer « dans l'intérêt public » pour garantir l'accès gratuit aux espèces (environ 50 000 distributeurs, cashback, points bancaires partagés).
+- **Liens** (à ouvrir) : site https://www.link.co.uk/ ; LinkedIn https://www.linkedin.com/company/link-atm-scheme (environ 2 800 abonnés) ; X https://x.com/LINK_ATM_Scheme.
+- **Langue** : anglais.
+- **Activité** : dernier post trouvé le 21 janvier 2026. Rythme modéré (estimation).
+- **Contenus** : accès aux espèces et inclusion (« 5 millions de personnes dépendent des espèces chaque jour »), ouverture de points bancaires partagés dans les villes, données sur l'usage des espèces, sécurité des distributeurs (vols, attaques), conseil des consommateurs.
+- **Ton** : d'intérêt public, factuel, tourné vers les communautés locales.
+- **Post représentatif** : https://www.linkedin.com/posts/link-atm-scheme_cash-machine-stolen-in-thorpe-marriott-ram-raid-activity-7419805485387845633-WWms (21/01/2026) : relais d'un fait divers sur un distributeur volé, occasion de parler de sécurité du réseau.
+- **Ressemblance avec la grille** : MOYENNE. La posture « intérêt public » et « au service de tous » est très proche du CMI neutre, mais l'audience est petite et le sujet (espèces) est différent.
+- **Verdict** : À GARDER EN RÉSERVE (pour le vocabulaire de l'intérêt public).
 
 ---
 
