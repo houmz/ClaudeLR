@@ -54,6 +54,8 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
 |---|---|---|---|---|---|
 | NPCI | Inde | EN (+ hindi) | LinkedIn, X, YouTube, Facebook, Instagram | FORTE | À AJOUTER |
 | NETS | Singapour | EN | LinkedIn, Facebook, Instagram | MOYENNE | À GARDER EN RÉSERVE |
+| PayNet | Malaisie | EN (+ malais) | LinkedIn, Instagram | FORTE | À AJOUTER |
+| Australian Payments Plus (AP+) | Australie | EN | LinkedIn, YouTube (eftpos : Facebook, Instagram, X) | MOYENNE | À GARDER EN RÉSERVE |
 
 ---
 
@@ -98,6 +100,42 @@ Lecture : FORTE = 4 ou 5 critères remplis. MOYENNE = 2 ou 3. FAIBLE = 0 ou 1.
   - Post 2026 sur le prix « Top Brand for Digital Payments » aux Influential Brands (lien non indexé, à retrouver sur la page).
 - **Ressemblance avec la grille** : MOYENNE. Bon sur le rassembleur et le lien avec la communauté, mais peu de pédagogie sur le rôle d'infrastructure et peu de chiffres. Part commerciale visible.
 - **Verdict** : À GARDER EN RÉSERVE (intéressant pour l'angle « raison d'être »).
+
+#### PayNet, Payments Network Malaysia (Malaisie)
+
+- **Identité** : infrastructure nationale de paiement, détenue par la banque centrale (Bank Negara Malaysia) et par les grandes banques du pays. Opère DuitNow (virement instantané et QR national), MyDebit (réseau de débit national), FPX, JomPAY. Se présente comme « le réseau national de paiement et l'infrastructure financière centrale » du pays.
+- **Liens** (à ouvrir) :
+  - Site : https://paynet.my/
+  - LinkedIn : https://www.linkedin.com/company/payments-network-my-sdn-bhd
+  - Instagram : https://www.instagram.com/paynetmy/ (environ 18 000 abonnés)
+  - Facebook, X, YouTube : non trouvés dans l'index, à vérifier depuis le site.
+- **Langues** : anglais sur LinkedIn, malais sur une partie des campagnes grand public (anti-arnaque).
+- **Activité** : dernier post trouvé le 12 février 2026. Rythme régulier (environ un post par semaine, estimation).
+- **Contenus** : chiffres de place (reprise des faits marquants du rapport annuel de la banque centrale), lutte contre la fraude (campagne #LawanScammer, portail national anti-fraude), inclusion (programme « Cashless Community » en zone rurale, « Digital Campus » dans 44 universités), liaisons internationales (DuitNow avec Singapour, Inde, Alipay+, WeChat Pay), marque employeur (programme jeunes diplômés tech).
+- **Ton** : institutionnel mais accessible, fier du rôle national, orienté impact.
+- **Posts représentatifs** :
+  - https://www.linkedin.com/posts/payments-network-my-sdn-bhd_bank-negara-malaysia-annual-report-highlight-activity-7311960386402930688-rRSi (30/03/2025) : série « Annual Report Highlight », qui reprend les chiffres clés des paiements du pays.
+  - https://www.linkedin.com/posts/payments-network-my-sdn-bhd_lawanscammer-nationalfraudportal-jangankenascam-activity-7317494445350760449-QChO (14/04/2025) : campagne anti-arnaque liée au portail national de signalement de la fraude.
+- **Ressemblance avec la grille** : FORTE. Rôle national clairement dit, chiffres de place, sécurité, posture de rassembleur (banques, universités, commerçants ruraux). Modèle proche du CMI : détenu par les banques et la banque centrale, positionné comme infrastructure partagée.
+- **Verdict** : À AJOUTER.
+
+#### Australian Payments Plus, AP+ (Australie)
+
+- **Identité** : organisation nationale créée en 2022 par la fusion des trois systèmes domestiques (eftpos, BPAY, NPP), détenue par les banques et acteurs du paiement australiens. Opère le réseau de débit national eftpos, le virement instantané (NPP, PayTo) et l'identité numérique ConnectID.
+- **Liens** (à ouvrir) :
+  - Site : https://www.auspayplus.com.au/
+  - LinkedIn : https://au.linkedin.com/company/australian-payments-plus (environ 16 700 abonnés), plus des pages séparées pour eftpos et ConnectID
+  - YouTube : https://www.youtube.com/@AustralianPaymentsPlus
+  - Marque eftpos (grand public) : Facebook https://www.facebook.com/eftposaustralia/ (environ 44 000), Instagram https://www.instagram.com/eftposaust/ (moins de 1 000), X https://x.com/eftposaust
+- **Langue** : anglais.
+- **Activité** : posts de 2026 repérés (sommet « Beyond Tomorrow 2026 », prix ConnectID, arrivée d'un nouveau directeur financier en janvier 2026). Rythme régulier (estimation).
+- **Contenus** : grand sommet annuel de l'écosystème (plus de 700 dirigeants en 2026), série d'analyses « The AP+ POV » signée par les dirigeants, innovations (eftpos dans Google Wallet et Tap to Pay sur iPhone), identité numérique et confiance, nominations, prix.
+- **Ton** : B2B, stratégique, tourné vers l'avenir (« inspiring trust in the digital economy »).
+- **Posts représentatifs** :
+  - https://www.linkedin.com/posts/australian-payments-plus_the-ap-pov-the-future-of-3rd-party-initiated-activity-7104016932911124480-Ue3s (03/09/2023) : épisode de la série « The AP+ POV » sur l'avenir des paiements de compte à compte.
+  - https://www.linkedin.com/posts/australian-payments-plus_beyondtomorrow2025-eftpos-payments-activity-7313414745041051648-ZWcc (03/04/2025) : retour sur le sommet annuel de l'écosystème.
+- **Ressemblance avec la grille** : MOYENNE. Très bon sur le rassembleur et la lecture du marché (format « POV »), mais peu de chiffres de place et de pédagogie grand public trouvés. Les comptes grand public sont portés par la marque eftpos, peu suivis.
+- **Verdict** : À GARDER EN RÉSERVE (le format « The AP+ POV » est une bonne piste pour un CMI qui veut commenter le marché).
 
 ---
 
